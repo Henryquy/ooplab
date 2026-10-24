@@ -1,0 +1,5 @@
+HT01,Họp chiến thuật giải đấu VCT,25/06/2026 09:00
+HT05,Team building,29/06/2026 18:00
+HT06,Họp báo,30/06/2026 18:00
+HT07,Ký hợp đồng với nhà tài trợ,01/07/2026 10:00
+Ht02,Vong loai giai dau,
